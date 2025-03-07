@@ -1,0 +1,193 @@
+*{
+    padding:0px;
+    margin:0px;
+
+}
+
+.header{
+    display:flex;
+    background-color: black;
+    color: azure;
+    justify-content: space-around;
+    position: fixed;
+    width:100vw;
+   height: 100px;
+   padding-top: 15px;
+   
+}
+select{
+    width:40px;
+    height: 20px;
+}
+button{
+    background-color: rgb(245, 208, 87);
+}
+#amazonimg{
+    height:50px;
+    width:80px;
+    margin-left: 0px;
+}
+#cart{
+    height:25px;
+    width:25px; 
+    margin-left: 10px;
+}
+#header2{
+    position: fixed;
+    width: 100vw;
+    margin-top: 70px;
+    display: flex;
+    color: aliceblue;
+    background-color: rgb(34, 34, 67);
+    height:40px;
+    justify-content:space-around;
+    padding-top: 5px;
+}
+#layout{
+    background-color: white;
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    
+}
+#content{
+    width:1500px;
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img21/MA2024/GW/Sept/UBS/Unrec/PC/Frame_19869._CB564898852_.png");
+    background-color: rgb(244, 231, 243);
+    background-size: contain;
+    background-repeat: no-repeat;
+   height: 200vh;   
+    margin-top: 115px;
+
+}
+.bigcontainer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(251, 225, 255);
+    width: 1500px;
+    margin-top: 300px;
+    
+}
+.container{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'pacifico';
+    border: 2px solid black;
+    background-color:rgb(255, 255, 255);
+    
+}
+
+
+
+#container1{
+    height:350px;
+    width:300px;
+    
+    color: black;
+   
+
+    
+}
+#container2{
+    height:350px;
+    width:300px;
+    
+    color: black;
+   
+}
+#container3{
+    height:350px;
+    width:300px;
+  
+    color: black;
+   
+}
+#container4{
+    height:350px;
+    width:300px;
+    
+    color: black;
+   
+    
+}
+
+.bigbox{
+    color: black;
+    
+    height: 331px;
+    width: 300px;
+    background-color:antiquewhite;
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    flex-wrap: wrap;
+
+}
+.boxes{
+    height: 140px;
+    width: 120px;
+border: 2px solid black;
+}
+/**
+.boxes:hover{
+    transform: scale(1.3);
+}
+    **/
+    img:hover{
+        transform: scale(1.1);
+        ;
+    }
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+}
+a:hover{
+    text-decoration:underline ;
+}   
+
+.bigcontainer2{
+    background-color: rgb(244, 231, 243);
+    width: 1500px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.whitespace{
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    
+}
+.bikearea{
+    background-color:  rgb(244, 231, 243);
+    color: rgb(0, 8, 8);
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.bikes{
+    height: 180px;
+    width: 350px;
+    
+    margin-top: 80px;
+    border: 2px solid black;
+}
+.bike1{
+    height: 180px;
+    width: 350px;
+}
+
+#textarea{
+    color: black;
+    background-color: aqua;
+    height: 70px;
+    width: 500px;
+}
+
+
+
+
+
+
