@@ -1,4 +1,4 @@
-# Starter Projects
+# Mini web-dev-projects
 
 This is my first Git repository.
 
