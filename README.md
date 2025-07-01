@@ -1,8 +1,8 @@
-# STARTERPROJECTS
-THIS IS MY FIRST GIT REPOSITORY
-<br>
-Projects:
-<br>
-1.amazon file using html css
-<br>
-2.tictactoe using html,css,js.
+# Starter Projects
+
+This is my first Git repository.
+
+## Projects Included
+
+1. **Amazon Clone** – Built using HTML & CSS  
+2. **Tic Tac Toe Game** – Built using HTML, CSS, and JavaScript
